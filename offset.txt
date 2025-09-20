@@ -166,6 +166,7 @@ constexpr uint64_t rigid_dynamics = 0x2618;
 constexpr uint64_t PhysxSDK = 0x105511C8;
 constexpr uint64_t VehicleCommonComponent = 0xB40;
 constexpr uint64_t FloatingVehicleCommonComponent = 0x4F0;
+constexpr uint64_t FloatingComponent = 0x4F0;
 constexpr uint64_t VehicleFuel = 0x2E0;
 constexpr uint64_t VehicleFuelMax = 0x2E4;
 constexpr uint64_t VehicleHealth = 0x2D8;
