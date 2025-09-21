@@ -1,4 +1,4 @@
-constexpr uint64_t XenuineDecrypt = 0xF2F5F28;
+constexpr uint64_t XenuineDecrypt = 0x00007FF43DF81629;
 constexpr uint64_t UWorld = 0x10C1DE98;
 constexpr uint64_t GWorld = 0x10910A98;
 constexpr uint64_t GNames = 0x10B56A90;
