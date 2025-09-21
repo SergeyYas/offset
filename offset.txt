@@ -171,5 +171,9 @@ constexpr uint64_t AimOffsets = 0x1A18;
 constexpr uint64_t AntiCheatCharacterSyncManager = 0x148;
 constexpr uint64_t MortarLocation = 0xF0;
 constexpr uint64_t MortarRotation = 0x528;
-
+constexpr uint64_t PlayerArray = 0x4F0;
+constexpr uint64_t PlayerName = 0x1D90;
+constexpr uint64_t PlayerStatusType = 0x1D90;
+constexpr uint64_t SquadMemberIndex = 0x1D90;
+constexpr uint64_t AccountId = 0x1D90;
 constexpr uint64_t offset = 0x10;
